@@ -1,0 +1,234 @@
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\Refaccionaria.dll.config
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\Refaccionaria.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\Refaccionaria.pdb
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\csc.exe
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\csc.exe.config
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\csc.rsp
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\csi.exe
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\csi.exe.config
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\csi.rsp
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.AppContext.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Console.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.IO.Compression.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Net.Http.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.ValueTuple.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\vbc.exe
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\vbc.exe.config
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\vbc.rsp
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\VBCSCompiler.exe
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\System.Web.Helpers.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\System.Web.Mvc.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\System.Web.Razor.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.Razor.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\System.Web.Razor.xml
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.xml
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.Razor.xml
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\System.Web.Helpers.xml
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\System.Web.Mvc.xml
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\es\System.Web.Razor.resources.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.csprojAssemblyReference.cache
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.csproj.CoreCompileInputs.cache
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.csproj.CopyComplete
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.dll
+C:\Users\zeped\OneDrive\Escritorio\Universidad\Quinto cuatri\Web\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.pdb
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\Refaccionaria.dll.config
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\Refaccionaria.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\Refaccionaria.pdb
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\csc.exe
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\csc.exe.config
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\csc.rsp
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\csi.exe
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\csi.exe.config
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\csi.rsp
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.AppContext.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Console.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.IO.Compression.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Net.Http.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.ValueTuple.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\vbc.exe
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\vbc.exe.config
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\vbc.rsp
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\VBCSCompiler.exe
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\System.Web.Helpers.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\System.Web.Mvc.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\System.Web.Razor.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.Razor.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\System.Web.Razor.xml
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.xml
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.Razor.xml
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\System.Web.Helpers.xml
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\System.Web.Mvc.xml
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\es\System.Web.Razor.resources.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.csproj.CoreCompileInputs.cache
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.csproj.CopyComplete
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.dll
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.pdb
+C:\Users\caler\Downloads\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.csprojAssemblyReference.cache
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\Refaccionaria.dll.config
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\Refaccionaria.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\Refaccionaria.pdb
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\csc.exe
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\csc.exe.config
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\csc.rsp
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\csi.exe
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\csi.exe.config
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\csi.rsp
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.AppContext.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Console.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.IO.Compression.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Net.Http.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.ValueTuple.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\vbc.exe
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\vbc.exe.config
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\vbc.rsp
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\VBCSCompiler.exe
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\System.Web.Helpers.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\System.Web.Mvc.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\System.Web.Razor.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.Razor.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\System.Web.Razor.xml
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.xml
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\System.Web.Webpages.Razor.xml
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\System.Web.Helpers.xml
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\System.Web.Mvc.xml
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\es\System.Web.Razor.resources.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.csproj.AssemblyReference.cache
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.csproj.CoreCompileInputs.cache
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.csproj.CopyComplete
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.dll
+C:\Users\israj\OneDrive\Documentos\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.pdb

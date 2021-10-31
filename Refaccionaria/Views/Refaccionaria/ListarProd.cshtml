@@ -1,0 +1,95 @@
+﻿@model IEnumerable<Refaccionaria.Models.Producto>
+
+@{
+    ViewBag.Title = "ListarProd";
+    Layout = "~/Views/Shared/_Inicio.cshtml";
+}
+
+<div style="width: 100%;padding: 0.1rem 0.3rem; background-color: #3F831B; color: white; margin-bottom: 1rem">
+    <h2>Lista de Productos</h2>
+</div>
+
+<div class="card" style="display:block; width: 90%;  margin: auto">
+    <table class="table table-striped table-hover">
+        <thead class="table-dark" style="color: #3F831B !important">
+            <tr>
+                <th>
+                    Código
+                </th>
+                <th>
+                    Categoria
+                </th>
+                <th>
+                    Producto
+                </th>
+                <th>
+                    Precio
+                </th>
+                <th>
+                    Disponibles
+                </th>
+                <th>
+                    Descripción
+                </th>
+                <th>
+                    Imagen
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+            <tbody>
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.No_producto)
+                    </td>
+                    <td>
+                        @{
+                            var categoria = Convert.ToInt32(@item.No_Categoria);
+                            if (categoria == 1)
+                            {
+                                <p>Accesorios</p>
+                            }
+                            else if (categoria == 2)
+                            {
+                            <p>Herramientas</p>
+                            }
+                            else if (categoria == 3)
+                            {
+                                <p>Sistema Electrico</p>
+                            }
+                            else if (categoria == 4)
+                            {
+                                <p>Quimicos</p>
+                            }
+                            else if (categoria == 5)
+                            {
+                                <p>Souvenirs</p>
+                            }
+                        }
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombre_prod)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Precio_venta)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Stock)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+                    <td>
+                        <img src=@("/Static/products/" + @Html.DisplayFor(modelItem => item.Img)) width="100" />
+                    </td>
+                    <td>
+                        @Html.ActionLink("Modificar", "Modificar", new { id=item.No_producto }) |
+                        @Html.ActionLink("Eliminar", "Eliminar", new { id = item.No_producto })
+                    </td>
+                </tr>
+            </tbody>
+        }
+    </table>
+</div>

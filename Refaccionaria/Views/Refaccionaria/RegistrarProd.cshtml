@@ -1,0 +1,98 @@
+﻿@model Refaccionaria.Models.Producto
+
+@{
+    ViewBag.Title = "RegistrarProd";
+    Layout = "~/Views/Shared/_Inicio.cshtml";
+}
+
+<div style="width: 100%;padding: 0.1rem 0.3rem; background-color: #3F831B; color: white; margin-bottom: 1rem">
+    <h2>Registrar producto</h2>
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="card" style="display:block; width: 90%;  margin: auto">
+    <div style="width: 100%;padding-left: 1rem; background-color: black; color: white" class="text-center">
+        <h4>
+            Caracteristicas del nuevo juguete
+        </h4>
+    </div>
+    <div class="form-horizontal" style="padding: 1.2rem 2rem">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            <label for="Categoria" class="control-label col-md-2 form-label">
+                <span class="form-label">
+                    Categoria
+                </span>
+                <select id="Categoria" name="Categoria" class="form-select">
+                    <option value="1">Accesorios</option>
+                    <option value="2">Herramientas</option>
+                    <option value="3">Sistema Electrico</option>
+                    <option value="4">Quimicos</option>
+                    <option value="5">Souvenirs</option>
+                </select>
+            </label>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Nombre_prod, htmlAttributes: new { @class = "control-label col-md-2 form-label" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Nombre_prod, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Nombre_prod, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Precio_venta, htmlAttributes: new { @class = "control-label col-md-2 form-label" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Precio_venta, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Precio_venta, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Stock, htmlAttributes: new { @class = "control-label col-md-2 form-label" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Stock, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Stock, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Descripcion, htmlAttributes: new { @class = "control-label col-md-2 form-label" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Descripcion, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Descripcion, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Img, htmlAttributes: new { @class = "control-label col-md-2 form-label" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Img, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Img, "", new { @class = "text-danger" })
+            </div>
+            <div id="emailHelp" class="form-text">
+                Escriba 'Default.png' si aun no hay una imagen en la base de datos.
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Precio_compra, htmlAttributes: new { @class = "control-label col-md-2 form-label" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Precio_compra, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Precio_compra, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group pt-3">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Registrar" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+</div>
+ }

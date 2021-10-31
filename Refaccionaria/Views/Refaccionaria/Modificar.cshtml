@@ -1,0 +1,110 @@
+﻿@model Refaccionaria.Models.Producto
+
+@{
+    ViewBag.Title = "Modificar";
+    Layout = "~/Views/Shared/_Inicio.cshtml";
+}
+
+
+<div style="width: 100%;padding: 0.1rem 0.3rem; background-color: #3F831B; color: white; margin-bottom: 1rem">
+    <h2>Registrar producto</h2>
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="card" style="display:block; width: 90%;  margin: auto">
+        <div style="width: 100%;padding-left: 1rem; background-color: black; color: white;" class="text-center">
+            <h4>
+                Detalles del juguete
+            </h4>
+        </div>
+        <div class="form-horizontal" style="padding: 1.2rem 2rem; width: 100%">
+            <form method="post" action="~/Refaccionaria/Modificar">
+                <picture>
+                    <img alt="@Model.Nombre_prod" src="~/Static/products/@Model.Img" style="width: 10rem; height: 10rem; margin-bottom: 1rem" />
+                </picture>
+                <div class="form-group">
+                    <label for="ID" class="control-label col-md-8 form-label">
+                        <span class="form-label">
+                            ID del producto
+                        </span>
+                        <input type="text" id="ID" name="No_producto" class="form-control" value="@Model.No_producto" />
+                    </label>
+                </div>
+                <div class="form-group">
+                    <label for="Img" class="control-label col-md-8 form-label">
+                        <span class="form-label">
+                            Nombre de imagen
+                        </span>
+                        <input type="text" id="Img" name="Img" class="form-control" value="@Model.Img" />
+                    </label>
+                </div>
+                <div class="form-group">
+                    <label for="Categoria" class="control-label col-md-8 form-label">
+                        <span class="form-label">
+                            Categoria
+                        </span>
+                        <select id="Categoria" name="Categoria" class="form-select">
+                            <option value="1">Accesorios</option>
+                            <option value="2">Herramientas</option>
+                            <option value="3">Sistema Electrico</option>
+                            <option value="4">Quimicos</option>
+                            <option value="5">Souvenirs</option>
+                        </select>
+                    </label>
+                </div>
+                <div class="form-group">
+                    <label for="Nombre" class="control-label col-md-8 form-label">
+                        <span class="form-label">
+                            Nombre del Producto
+                        </span>
+                        <input type="text" id="Nombre" name="Nombre" class="form-control" value="@Model.Nombre_prod" />
+                    </label>
+                </div>
+                <div class="form-group">
+                    <label for="PrecioV" class="control-label col-md-8 form-label">
+                        <span class="form-label">
+                            Costo del proveedor
+                        </span>
+                        <input type="number" id="PrecioV" name="PrecioV" step="0.1" min="1" class="form-control" value="@Model.Precio_compra" />
+                    </label>
+                </div>
+                <div class="form-group">
+                    <label for="Stock" class="control-label col-md-8 form-label">
+                        <span class="form-label">
+                            Cantidad en existencia
+                        </span>
+                        <input type="number" id="Stock" name="Stock" step="1" min="0" class="form-control" value="@Model.Stock" />
+                    </label>
+                </div>
+                <div class="form-group">
+                    <label for="Descripcion" class="control-label col-md-8 form-label">
+                        <span class="form-label">
+                            Descripcion del producto
+                        </span>
+                        <input class="form-control" id="Descripcion" rows="3" name="Descripcion" value="@Model.Descripcion">
+                    </label>
+                </div>
+                <div class="form-group">
+                    <label for="PrecioC" class="control-label col-md-8 form-label">
+                        <span class="form-label">
+                            Costo de venta
+                        </span>
+                        <input type="number" id="PrecioC" name="PrecioC" step="0.1" min="1" class="form-control" value="@Model.Precio_venta" />
+                    </label>
+                </div>
+                <div class="form-group pt-3">
+                    <div class="col-md-offset-2 col-md-10" style="display: flex">
+                        <input type="button" value="Modificar" class="btn btn-dark" id="modificar" />
+                        <input type="button" value="Cancelar" class="btn btn-dark" id="cancelar" />
+                        <input type="submit" value="Actualizar" class="btn btn-success" id="submit" style="margin-left: 1rem" />
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+}
+
+<script src="~/Scripts/Modify.js"></script>
